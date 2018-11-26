@@ -1,0 +1,4 @@
+addition R1 15 4
+subtraction R3 R1 -5
+multiplying R3 2 R3
+division R4 20 2
